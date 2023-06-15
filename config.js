@@ -7,22 +7,22 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919172673114']
-global.OwnerNumber = ['919172673114']
-global.ownertag = ['919172673114']
-global.BotName = "Chizuru Mizuhara"
+global.Owner = ['919142294671']
+global.OwnerNumber = ['919142294671']
+global.ownertag = ['919142294671']
+global.BotName = "MRS SONA"
 global.packname = "Ox.Itachi < 3"
-global.author = "Say.Scotch"
-global.OwnerName = "Scotch"
+global.author = "BZR SID"
+global.OwnerName = "BZR SID"
 global.BotSourceCode = "Sorry I can't give"
 global.SupportGroupLink = "https://chat.whatsapp.com/JBDzYnTIrawLBptciuMiFA"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-']
+global.prefa = ['.']
 
-global.location = "Mumbai, India"
+global.location = "MOTIHARI, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
